@@ -22,7 +22,23 @@ github-profile/
 │── README.md
 │── github-profile.png
 
---- 
+---
+
+## 🚀 Getting Started
+
+### 🔹 Clone the Repository
+```bash
+git clone https://github.com/Elanthiran/github-profile.git
+cd github-profile
+```
+---
+
+🔹 Run the Project
+
+Just open index.html in your browser.
+
+---
+
 
 ## 📸 Screenshots
 
@@ -30,8 +46,7 @@ github-profile/
 
 ---
 
-🛠️ Tech Stack
-
+## 🛠️ Tech Stack
 - HTML5
 
 - CSS3
@@ -41,7 +56,7 @@ github-profile/
 - Font Awesome
 ---
 
-🚧 Future Improvements
+## 🚧 Future Improvements
 
  - Add interactive JavaScript functionality.
 
@@ -53,7 +68,7 @@ github-profile/
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 - Contributions are welcome!
 
@@ -67,7 +82,7 @@ github-profile/
 
 --- 
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License – feel free to use and modify it.
 
